@@ -1,4 +1,4 @@
-# ⚡ Soy El Formidable Tuteque-man
+# ⚡ Soy El Formidable Tuteque-man 🦎🐸
 
 ¡Bienvenido al cuartel general de **Tuteque-man**, el Formidable de los sistemas digitales! 🦸‍♂️ Soy Angello, desarrollador con poderes técnicos afilados como una katana de código. Mi misión: construir sistemas **seguros**, **escalables** y **claramente documentados**, ¡y combatir el caos tecnológico una línea de código a la vez! 🛠️🔥
 
