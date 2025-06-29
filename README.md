@@ -18,6 +18,7 @@ Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=10" />
+    <img src="https://img.icons8.com/color/48/medibang-paint.png" alt="medibang" title="MediBang Paint" width="40" />
   </a>
 </p>
 
