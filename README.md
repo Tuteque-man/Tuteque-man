@@ -12,6 +12,14 @@ Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of 
 - 🛠️ **PHP** – my personal forge for backend logic  
 - 🌀 **Vue.js** – dynamic vision and frontend agility  
 - 🧠 **SQL** – patrolling and protecting data like a digital sentinel
+## 🧠 Tecnologías conocidas 👨🏻‍💻
+
+<!-- Tech stack icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,php,html,css,vue,sql,git,github,vscode,ps&perline=10" />
+  </a>
+</p>
 
 ## 🚩 Current Mission
 
