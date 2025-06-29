@@ -17,7 +17,7 @@ Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of 
 <!-- Tech stack icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,php,html,css,vue,heidysql,git,github,vscode,ps&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,php,html,css,vue,heidisql,git,github,vscode,ps&perline=10" />
   </a>
 </p>
 
