@@ -32,10 +32,11 @@ Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of 
 
 <p align="center">
   <a href="https://github.com/Tuteque-man">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="width: 50%;" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia" style="width: 50%;" />
   </a>
 </p>
+-
 ## 🗃️ Repositories of Impact
 
 | Repository | Purpose | Status |
