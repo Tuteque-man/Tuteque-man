@@ -30,7 +30,7 @@ Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of 
 - 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Tuteque-man">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
