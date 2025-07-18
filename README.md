@@ -1,4 +1,4 @@
-# ⚡ I Am THE FORMIDABLE TUTEQUE-MAN 🦎🐸
+# ⚡ I Am THE FORMIDABLE TUTEQUE-MAN <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25jcmtwaGcwdmQ4Z3ZyMHJkZWE1aWxwY3VjcW9iNmxhdTdoa3F3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IwdoTeUa2RYBaP9XoZ/giphy.gif" width="400" alt="Tuteque-man loading..." />
 
 Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of backend justice! 🦸‍♂️ a developer wielding technical powers as sharp as a code-forged katana. My mission: build systems that are **secure**, **scalable**, and **clearly documented**, while battling tech chaos one line of code at a time. 🛠️🔥
 
