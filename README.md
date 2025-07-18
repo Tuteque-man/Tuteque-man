@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .runner {
-      animation: run-x 2s linear infinite;
-      position: relative;
-    }
-
-    @keyframes run-x {
-      0%   { left: 0px; }
-      50%  { left: 30px; }
-      100% { left: 0px; }
-    }
-  </style>
-</head>
-<body>
-
-<h1 style="display: flex; align-items: center;">
-  <img src="https://pixil.nyc3.digitaloceanspaces.com/images/art/pending/280905.png" width="60" alt="Pixel Tuteque-man" />
-  <span style="margin: 0 10px;">I Am THE FORMIDABLE TUTEQUE-MAN</span>
-  <img class="runner" src="https://pixil.nyc3.digitaloceanspaces.com/images/art/pending/280902.gif" width="60" alt="Pixel Tuteque-man Running" />
-</h1>
+<h1><img src="https://pixil.nyc3.digitaloceanspaces.com/images/art/pending/280905.png" width="60" style="vertical-align: middle; margin-left: 10px;" alt="Pixel Tuteque-man" />I Am THE FORMIDABLE TUTEQUE-MAN<img src="https://pixil.nyc3.digitaloceanspaces.com/images/art/pending/280902.gif" width="60" style="vertical-align: middle; margin-left: 10px;" alt="Pixel Tuteque-man" /></h1>
 
 </body>
 </html>
