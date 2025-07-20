@@ -1,5 +1,3 @@
----
-
 <center>
   <h1>
     <img src="https://pixil.nyc3.digitaloceanspaces.com/images/art/pending/280905.png" width="60" style="vertical-align: middle; margin-left: 10px;" alt="Pixel Tuteque-man" />
