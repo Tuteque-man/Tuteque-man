@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="38%">
+<td width="78%">
   <img src="cover.png" alt="Cover" width="100%"/>
 </td>
 <td>
@@ -16,13 +16,10 @@
 
 ---
 
-## Technical Skills <img src="img/p1.gif" height="280px" style="vertical-align:middle"/>
+## Technical Skills
 
 <table>
 <tr>
-<td width="38%">
-  <img src="img/p2.gif" height="180px"/>
-</td>
 <td>
 
 | Language/Stack | Description |
@@ -46,9 +43,6 @@
 
 <table>
 <tr>
-<td width="38%">
-  <img src="img/Sprite-0004.png" height="80px"/>
-</td>
 <td>
 
 [![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
@@ -66,9 +60,6 @@
 
 <table>
 <tr>
-<td width="38%">
-  <img src="img/c1.gif" height="180"/>
-</td>
 <td>
 
 - Improve data validation
@@ -81,7 +72,7 @@
 
 ---
 
-## GitHub Metrics <img src="img/c1.gif" height="35" style="vertical-align:middle"/>
+## GitHub Metrics
 
 <p align="center">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -90,8 +81,7 @@
 
 ---
 
-## Featured Repositories <img src="img/Sprite-0004.png" height="35" style="vertical-align:middle"/>
-
+## Featured Repositories 
 <table>
 <tr>
 <td width="38%">
@@ -111,13 +101,10 @@
 
 ---
 
-## Next Goals <img src="img/n1.png" height="35" style="vertical-align:middle"/>
+## Next Goals 
 
 <table>
 <tr>
-<td width="38%">
-  <img src="img/n2.png" height="180"/>
-</td>
 <td>
 
 - Master statistical and advanced analysis
@@ -132,9 +119,6 @@
 
 ## Contact
 <tr>
-<td width="38%">
-  <img src="img/Sprite-0004.png" height="180"/>
-</td>
 <td>
 
 Looking for a reliable developer for your project?
