@@ -131,12 +131,10 @@
 
 ---
 
-## Contact <img src="img/Profile.png" height="35" style="vertical-align:middle"/>
-
-<table>
+## Contact
 <tr>
 <td width="38%">
-  <img src="img/Profile.png" height="180"/>
+  <img src="img/Sprite-0004.png" height="180"/>
 </td>
 <td>
 
