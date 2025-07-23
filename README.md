@@ -39,7 +39,7 @@
 
 ---
 
-## Known Technologies <img src="img/n2.png" height="35" style="vertical-align:middle"/>
+## Known Technologies
 
 <table>
 <tr>
@@ -56,7 +56,7 @@
 
 ---
 
-## Current Mission <img src="img/p2.gif" height="35" style="vertical-align:middle"/>
+## Current Mission
 
 <table>
 <tr>
