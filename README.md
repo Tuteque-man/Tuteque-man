@@ -7,8 +7,34 @@
 Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. A developer with technical skills as sharp as a code-forged katana. My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
 
 ---
+# Who who am i
+> **Backend Justice, Code Excellence.**
 
-## Technical Skills
+[![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
+
+---
+
+## About
+
+**Tuteque-man** is a backend developer focused on building secure, scalable, and well-documented systems. Passionate about automation, API design, and technical excellence.
+
+---
+
+## Table of Contents
+
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Current Mission](#current-mission)
+- [Metrics](#metrics)
+- [Featured Projects](#featured-projects)
+- [Next Goals](#next-goals)
+- [Contact](#contact)
+
+---
+
+## Tech Stack
 
 | Language/Stack | Description |
 |---------------|-------------|
@@ -21,23 +47,32 @@ Welcome to the digital headquarters of **Tuteque-man**, the formidable force of 
 | Vue.js        | Dynamic and agile frontend |
 | SQL           | Data management and protection |
 
----
-
-## Repo Activity
-
-_Repo activity metrics coming soon._
-
-> [!IMPORTANT]
-> This repository is under active development. Features, structure, and documentation may change frequently. Stay tuned for updates!
-
----
-
-## Known Technologies
-
-[![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
-
 **AI Tools:** ChatGPT, GitHub Copilot, Gemini  
-**Code Editors:** VSCode, Cursor, JetBrains IDEs
+**Editors:** VSCode, Cursor, JetBrains IDEs
+
+---
+
+## Features
+
+- Modular and scalable backend architecture
+- Strong focus on security and data validation
+- API-first design philosophy
+- Automated testing and CI/CD ready
+- Clean, maintainable, and well-documented code
+
+---
+
+## Getting Started
+
+```bash
+# Clone this repository
+git clone https://github.com/Tuteque-man/Tuteque-man.git
+
+# Move into the project directory
+cd Tuteque-man
+
+# (Add your setup instructions here)
+```
 
 ---
 
@@ -45,20 +80,18 @@ _Repo activity metrics coming soon._
 
 - Improve data validation
 - Elevate API documentation
-- Strengthen the **Tuteque-man** brand as a freelance symbol of excellence
+- Strengthen the Tuteque-man brand as a freelance symbol of excellence
 
 ---
 
-## GitHub Metrics
+## Metrics
 
-<p align="center">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+> [!IMPORTANT]
+> This repository is under active development. Features, structure, and documentation may change frequently. Stay tuned for updates!
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
 | Repository              | Purpose                              | Status         |
 |------------------------|--------------------------------------|----------------|
@@ -72,7 +105,7 @@ _Repo activity metrics coming soon._
 
 - Master statistical and advanced analysis
 - Create a personal API design framework
-- Expand the **Tuteque-man** brand across the tech multiverse
+- Expand the Tuteque-man brand across the tech multiverse
 
 ---
 
