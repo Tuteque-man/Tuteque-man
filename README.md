@@ -1,4 +1,4 @@
-# TUTEQUE-MAN <img src="img/Profile.png" height="60" style="vertical-align:middle"/>
+<img src="img/Profile.png" width="100%"  style="vertical-align:middle"/>
 
 ## Who is Tuteque-man? <img src="img/Sprite-0004.png" height="40" style="vertical-align:middle"/>
 
