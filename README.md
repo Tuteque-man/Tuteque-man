@@ -2,25 +2,13 @@
 
 ## WHO IS TUTEQUE-MAN
 
-<table>
-<tr>
-<td width="78%">
-  <img src="cover.png" alt="Cover" width="100%"/>
-</td>
-<td>
-  Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. A developer with technical skills as sharp as a code-forged katana.
-  My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
-</td>
-</tr>
-</table>
+<img src="cover.png" alt="Cover" width="100%"/>
+
+Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. A developer with technical skills as sharp as a code-forged katana. My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
 
 ---
 
 ## Technical Skills
-
-<table>
-<tr>
-<td>
 
 | Language/Stack | Description |
 |---------------|-------------|
@@ -33,45 +21,28 @@
 | Vue.js        | Dynamic and agile frontend |
 | SQL           | Data management and protection |
 
-</td>
-</tr>
-</table>
-
 ---
+
 ## Repo Activity
 
-![Repo Activity](https://repobeats.axiom.co/api/embed/7866c9790deba0baf63ca1688b209130b306ea4e.svg "Repobeats analytics image")
+_Repo activity metrics coming soon._
+
+---
 
 ## Known Technologies
-
-<table>
-<tr>
-<td>
 
 [![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
 
 **AI Tools:** ChatGPT, GitHub Copilot, Gemini  
 **Code Editors:** VSCode, Cursor, JetBrains IDEs
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Current Mission
 
-<table>
-<tr>
-<td>
-
 - Improve data validation
 - Elevate API documentation
 - Strengthen the **Tuteque-man** brand as a freelance symbol of excellence
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -84,13 +55,7 @@
 
 ---
 
-## Featured Repositories 
-<table>
-<tr>
-<td width="38%">
-  <img src="img/n1.png" height="180"/>
-</td>
-<td>
+## Featured Repositories
 
 | Repository              | Purpose                              | Status         |
 |------------------------|--------------------------------------|----------------|
@@ -98,40 +63,22 @@
 | jwt-tactico            | Ultra-secure authentication system    | In production  |
 | docupoder              | Professional documentation template   | In testing     |
 
-</td>
-</tr>
-</table>
-
 ---
 
-## Next Goals 
-
-<table>
-<tr>
-<td>
+## Next Goals
 
 - Master statistical and advanced analysis
 - Create a personal API design framework
 - Expand the **Tuteque-man** brand across the tech multiverse
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Contact
-<tr>
-<td>
 
 Looking for a reliable developer for your project?
 
 - [GitHub](https://github.com/Tuteque-man)
 - Available for freelance projects, code reviews, and professional collaborations
-
-</td>
-</tr>
-</table>
 
 ---
 
