@@ -1,69 +1,81 @@
-<center>
-  <h1>
-    WHO IS TUTEQUE-MAN?
-  </h1>
-</center>
+# TUTEQUE-MAN <img src="img/Profile.png" height="40" style="vertical-align:middle"/>
 
-![Project Screenshot](https://github.com/user-attachments/assets/e6c0d298-a345-45c6-9c8f-1d9b91ad0a1a)
+## Who is Tuteque-man? <img src="img/Sprite-0004.png" height="30" style="vertical-align:middle"/>
 
-Welcome to the digital headquarters of **Tuteque-man**, the Formidable force of backend justice! 🦸‍♂️ a developer wielding technical powers as sharp as a code-forged katana. My mission: build systems that are **secure**, **scalable**, and **clearly documented**, while battling tech chaos one line of code at a time. 🛠️🔥
+<img src="cover.png" alt="Cover" width="100%"/>
 
-## 🧬 My Superpowers
-
-- 🐍 **Python** – automating, analyzing, and conquering with elegance  
-- ☕ **Java** – when the mission demands robustness and corporate might  
-- ⚡ **JavaScript** – the whip that powers the web  
-- 🧙‍♂️ **Node.js** – crafting magical APIs and real-time spells  
-- 🌐 **HTML + CSS** – invoking visual structure with finesse  
-- 🛠️ **PHP** – my personal forge for backend logic  
-- 🌀 **Vue.js** – dynamic vision and frontend agility  
-- 🧠 **SQL** – patrolling and protecting data like a digital sentinel
-## 🧠 Tecnologías conocidas 
-
-<!-- Tech stack icons -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13" />
-  </a>
-</p>
-
-## 🚩 Current Mission
-
-- Fine-tune validation with surgical precision 🧪  
-- Elevate API documentation to dev-friendly clarity 📖  
-- Solidify the heroic brand of **Tuteque-man** as a freelance symbol of excellence 💼🦸‍♂️
-
-- 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Tuteque-man">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-## 🗃️ Repositories of Impact
-
-| Repository | Purpose | Status |
-|------------|---------|--------|
-| 🧪 `validador-multiforme` | Adaptable validation framework | In progress 🔧 |
-| 🔐 `jwt-tactico` | Ultra-secure authentication system | In production ✅ |
-| 📘 `docupoder` | Documentation template for heroes | In testing 🧪 |
-
-## 🌠 Next Power-Ups
-
-- Master statistical and advanced analytical skills 📊  
-- Forge a personal API design framework 🚀  
-- Expand the **Tuteque-man** brand across the tech multiverse 🪐
-
-## ☎️ Call to Action
-
-Seeking a dependable hero for your dev mission?
-
-🌐 [My GitHub Fortress](https://github.com/Tuteque-man)  
-💬 Available for freelance quests, code reviews, and heroic collabs
+Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. <img src="img/n1.png" height="25" style="vertical-align:middle"/> A developer with technical skills as sharp as a code-forged katana. My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
 
 ---
 
-_"Your attitude compiles your destiny."_ 💾  
-– Tuteque-man, The Formidable
+## Technical Skills <img src="img/p1.gif" height="25" style="vertical-align:middle"/>
+
+| Language/Stack | Description |
+|---------------|-------------|
+| Python        | Automation, analysis, and elegant development |
+| Java          | Robustness and enterprise power |
+| JavaScript    | The engine of web development |
+| Node.js       | Real-time APIs and applications |
+| HTML + CSS    | Visual structure and style |
+| PHP           | Custom backend logic |
+| Vue.js        | Dynamic and agile frontend |
+| SQL           | Data management and protection |
+
+---
+
+## Known Technologies <img src="img/n2.png" height="25" style="vertical-align:middle"/>
+
+[![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
+
+**AI Tools:** ChatGPT, GitHub Copilot, Gemini  
+**Code Editors:** VSCode, Cursor, JetBrains IDEs
+
+---
+
+## Current Mission <img src="img/p2.gif" height="25" style="vertical-align:middle"/>
+
+- Improve data validation
+- Elevate API documentation
+- Strengthen the **Tuteque-man** brand as a freelance symbol of excellence
+
+---
+
+## GitHub Metrics <img src="img/c1.gif" height="25" style="vertical-align:middle"/>
+
+<p align="center">
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+---
+
+## Featured Repositories <img src="img/Sprite-0004.png" height="25" style="vertical-align:middle"/>
+
+| Repository              | Purpose                              | Status         |
+|------------------------|--------------------------------------|----------------|
+| validador-multiforme   | Adaptable validation framework        | In progress    |
+| jwt-tactico            | Ultra-secure authentication system    | In production  |
+| docupoder              | Professional documentation template   | In testing     |
+
+---
+
+## Next Goals <img src="img/n1.png" height="25" style="vertical-align:middle"/>
+
+- Master statistical and advanced analysis
+- Create a personal API design framework
+- Expand the **Tuteque-man** brand across the tech multiverse
+
+---
+
+## Contact <img src="img/Profile.png" height="25" style="vertical-align:middle"/>
+
+Looking for a reliable developer for your project?
+
+- [GitHub](https://github.com/Tuteque-man)
+- Available for freelance projects, code reviews, and professional collaborations
+
+---
+
+> "Your attitude compiles your destiny."
+> 
+> – Tuteque-man
