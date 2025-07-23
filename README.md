@@ -1,6 +1,6 @@
 <img src="img/Profile.png" width="100%"  style="vertical-align:middle"/>
 
-## Who is Tuteque-man? <img src="img/Sprite-0004.png" height="40" style="vertical-align:middle"/>
+## WHO IS TUTEQUE-MAN
 
 <table>
 <tr>
@@ -17,12 +17,12 @@
 
 ---
 
-## Technical Skills <img src="img/p1.gif" height="35" style="vertical-align:middle"/>
+## Technical Skills <img src="img/p1.gif" height="180px" style="vertical-align:middle"/>
 
 <table>
 <tr>
 <td width="38%">
-  <img src="img/p2.gif" height="180"/>
+  <img src="img/p2.gif" height="180px"/>
 </td>
 <td>
 
@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td width="38%">
-  <img src="img/Sprite-0004.png" height="180"/>
+  <img src="img/Sprite-0004.png" height="80px"/>
 </td>
 <td>
 
