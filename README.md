@@ -8,8 +8,7 @@
   <img src="cover.png" alt="Cover" width="100%"/>
 </td>
 <td>
-  Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice.<br>
-  <img src="img/n1.png" height="35" style="vertical-align:middle"/> A developer with technical skills as sharp as a code-forged katana.<br>
+  Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice.<br> A developer with technical skills as sharp as a code-forged katana.<br>
   My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
 </td>
 </tr>
