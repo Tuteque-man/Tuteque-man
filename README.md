@@ -1,7 +1,6 @@
-# TUTEQUE-MAN <img src="img/Profile.png" height="40" style="vertical-align:middle"/>
+# TUTEQUE-MAN <img src="img/Profile.png" width="100%" style="vertical-align:middle"/>
 
-## Who is Tuteque-man? <img src="img/Sprite-0004.png" height="30" style="vertical-align:middle"/>
-
+## WHO IS TUTEQUE-MAN?
 <img src="cover.png" alt="Cover" width="100%"/>
 
 Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. <img src="img/n1.png" height="25" style="vertical-align:middle"/> A developer with technical skills as sharp as a code-forged katana. My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
@@ -40,7 +39,7 @@ Welcome to the digital headquarters of **Tuteque-man**, the formidable force of 
 
 ---
 
-## GitHub Metrics <img src="img/c1.gif" height="25" style="vertical-align:middle"/>
+## GitHub Metrics <img src="img/c1.gif" height="85" style="vertical-align:middle"/>
 
 <p align="center">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
