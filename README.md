@@ -32,13 +32,13 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
   <li>SQL: Data management and protection</li>
 </ul>
 
-<h2>Featured Gecko-Technologies</h2>
+<h2 style="text-tranform:uppercase;">Featured Gecko-Technologies</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,nodejs,php,html,css,vue,tailwind,mysql,mongodb,git,github,vscode&perline=17" />
 </p>
 
-<h2>Technologies that I should learn</h2>
+<h2 style="text-tranform:uppercase;">Technologies that I should learn</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ruby,go,react,nextjs,svelte,astro,postgres,docker,figma,ps,linux,bash,aws,gcp&perline=16" />
@@ -47,7 +47,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
 <p>AI Tools: ChatGPT, GitHub Copilot, Gemini<br>
 Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 
-<h2>Current Mission</h2>
+<h2 style="text-tranform:uppercase;" >Current Mission</h2>
 
 <ul>
   <li>Improve data validation</li>
@@ -55,7 +55,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   <li>Elevate the Tuteque-man brand as a freelance symbol of excellence</li>
 </ul>
 
-<h2>GitHub Metrics</h2>
+<h2 style="text-tranform:uppercase;">GitHub Metrics</h2>
 
 <p align="center">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuteque-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -78,7 +78,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   </a>
 </div>
 
-<h2>Featured Tuteque-Projects</h2>
+<h2 style="text-tranform:uppercase;">Featured Tuteque-Projects</h2>
 
 <ul>
   <li><strong>validador-multiforme:</strong> Adaptable validation framework (in progress)</li>
@@ -89,7 +89,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!WARNING]
 > Don't deploy without validating inputs. Even the most heroic code can fall to silent bugs if left unchecked.
 
-<h2>Upcoming Tuteque-Goals</h2>
+<h2 style="text-tranform:uppercase;">Upcoming Tuteque-Goals</h2>
 <img src="img/photo2.png" width="100%" alt="aliens" />
 <ul>
   <li>Master advanced statistical analysis</li>
@@ -100,7 +100,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!IMPORTANT]
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
-<h2>You already know how to find this tuteque.</h2>
+<h2 style="text-tranform:uppercase;">You already know how to find this tuteque.</h2>
 <a href="https://www.fiverr.com/tutequeman">
   <img src="img/photo3.png" width="100%" alt="tuteque-fans" />
 </a>
