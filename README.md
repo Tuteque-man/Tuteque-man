@@ -1,51 +1,48 @@
-<img src="img/Profile.png" width="100%"  style="vertical-align:middle"/>
+# WHO IS TUTEQUE-MAN?
 
-## WHO IS TUTEQUE-MAN
-
-<img src="cover.png" alt="Cover" width="100%"/>
-
-Welcome to the digital headquarters of **Tuteque-man**, the formidable force of backend justice. A developer with technical skills as sharp as a code-forged katana. My mission: to build **secure**, **scalable**, and **well-documented** systems, fighting tech chaos one line at a time.
+<p align="center">
+  <img src="img/cover.png" width="100%" />
+</p>
 
 ---
 
-## Technical Skills
+## TUTEQUE-MAN: The Backend Hero Fighting Digital Chaos
 
-| Language/Stack | Description |
-|---------------|-------------|
-| Python        | Automation, analysis, and elegant development |
-| Java          | Robustness and enterprise power |
-| JavaScript    | The engine of web development |
-| Node.js       | Real-time APIs and applications |
-| HTML + CSS    | Visual structure and style |
-| PHP           | Custom backend logic |
-| Vue.js        | Dynamic and agile frontend |
-| SQL           | Data management and protection |
+"Tech Herald" – Special Edition
+
+In a world where code rules and security is the final frontier, a formidable figure rises: Tuteque-man. Armed with technical skills as sharp as a katana forged from code, this developer has become a symbol of backend justice.
+
+His mission is clear: build secure, scalable, and well-documented systems, battling digital chaos line by line.
 
 ---
 
-## Repo Activity
+## Core Skills
 
-_Repo activity metrics coming soon._
-
-> [!IMPORTANT]
-> This repository is under active development. Features, structure, and documentation may change frequently. Stay tuned for updates!
+- Python: Automation, analysis, and elegant development  
+- Java: Enterprise-grade robustness  
+- JavaScript: The engine of modern web development  
+- Node.js: Real-time applications and APIs  
+- HTML + CSS: Visual structure and styling  
+- PHP: Custom backend logic  
+- Vue.js: Agile and reactive frontends  
+- SQL: Data management and protection
 
 ---
 
-## Known Technologies
+## Featured Technologies
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)](https://skillicons.dev)
+![Tech Stack](https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps&perline=13)
 
-**AI Tools:** ChatGPT, GitHub Copilot, Gemini  
-**Code Editors:** VSCode, Cursor, JetBrains IDEs
+AI Tools: ChatGPT, GitHub Copilot, Gemini  
+Code Editors: VSCode, Cursor, JetBrains IDEs
 
 ---
 
 ## Current Mission
 
-- Improve data validation
-- Elevate API documentation
-- Strengthen the **Tuteque-man** brand as a freelance symbol of excellence
+- Improve data validation  
+- Enhance API documentation  
+- Elevate the Tuteque-man brand as a freelance symbol of excellence
 
 ---
 
@@ -58,33 +55,36 @@ _Repo activity metrics coming soon._
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-| Repository              | Purpose                              | Status         |
-|------------------------|--------------------------------------|----------------|
-| validador-multiforme   | Adaptable validation framework        | In progress    |
-| jwt-tactico            | Ultra-secure authentication system    | In production  |
-| docupoder              | Professional documentation template   | In testing     |
+- validador-multiforme: Adaptable validation framework (in progress)  
+- jwt-tactico: Ultra-secure authentication system (in production)  
+- docupoder: Professional documentation template (in testing)
 
 ---
 
-## Next Goals
+## Upcoming Goals
 
-- Master statistical and advanced analysis
-- Create a personal API design framework
-- Expand the **Tuteque-man** brand across the tech multiverse
+- Master advanced statistical analysis  
+- Build a personal API design framework  
+- Expand the Tuteque-man brand across the tech multiverse
 
 ---
 
 ## Contact
 
-Looking for a reliable developer for your project?
+Looking for a reliable developer for your next project?
 
-- [GitHub](https://github.com/Tuteque-man)
-- Available for freelance projects, code reviews, and professional collaborations
+GitHub: [https://github.com/Tuteque-man](https://github.com/Tuteque-man)  
+Available for freelance work, code reviews, and professional collaborations
 
 ---
 
-> "Your attitude compiles your destiny."
-> 
+> "Your attitude compiles your destiny."  
 > – Tuteque-man
+
+---
+
+<p align="center">
+  <img src="img/Profile.png" width="60%" />
+</p>
