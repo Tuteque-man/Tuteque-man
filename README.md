@@ -1,4 +1,4 @@
-<img src="img/githubnews.png" alt="GitHub News" style="width:100%;" />
+<a href="https://tuteque-man.github.io/Tuteque-Folio/"><img src="img/githubnews.png" alt="GitHub News" style="width:100%;"/></a>
 <!-- GitHub News Style — Tech Herald Special Edition -->
 <h1 style="font-size:100px; color:#ff3366; text-shadow: 3px 3px #222;">WHO IS TUTEQUE-MAN? HERO OR DEVELOPER?</h1>
 
@@ -103,7 +103,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
 <h2>You already know how to find this tuteque.</h2>
-<a href="https://tuteque-man.github.io/Tuteque-Folio/">
+<a href="https://www.fiverr.com/tutequeman">
   <img src="img/photo3.png" width="100%" alt="tuteque-fans" />
 </a>
 <p>
