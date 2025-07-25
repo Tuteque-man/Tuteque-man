@@ -1,7 +1,7 @@
 # WHO IS TUTEQUE-MAN?
 
 <p align="center">
-  <img src="img/cover.png" width="100%" />
+  <img src="cover.png" width="100%" />
 </p>
 
 ---
@@ -86,5 +86,5 @@ Available for freelance work, code reviews, and professional collaborations
 ---
 
 <p align="center">
-  <img src="img/Profile.png" width="60%" />
+  <img src="img/Profile.png" width="100%" />
 </p>
