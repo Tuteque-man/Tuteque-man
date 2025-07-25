@@ -92,7 +92,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > Don't deploy without validating inputs. Even the most heroic code can fall to silent bugs if left unchecked.
 
 <h2>Upcoming Tuteque-Goals</h2>
-
+<img src="img/photo2.png" width="100%" alt="aliens" />
 <ul>
   <li>Master advanced statistical analysis</li>
   <li>Build a personal API design framework</li>
@@ -103,6 +103,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
 <h2>You already know how to find this tuteque.</h2>
+<img src="img/photo3.png" width="100%" alt="tuteque-fans" />
 <p>
 Looking for a reliable developer for your next project?<br>
 GitHub: <a href="https://tuteque-man.github.io/Tuteque-Folio/">https://github.com/Tuteque-man</a><br>
