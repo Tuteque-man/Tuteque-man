@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<h2>Tech Herald – Special Edition</h2>
-
 <p>
 In a world where code rules and security is the final frontier, a formidable figure rises: Tuteque-man. Armed with technical skills as sharp as a katana forged from code, this developer has become a symbol of backend justice.
 </p>
