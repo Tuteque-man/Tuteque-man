@@ -104,10 +104,12 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 <a href="https://www.fiverr.com/tutequeman">
   <img src="img/photo3.png" width="100%" alt="tuteque-fans" />
 </a>
-<p>
-Looking for a reliable developer for your next project?<br>
-Available for freelance work, code reviews, and professional collaborations
-</p>
+<h3 style="font-weight:400; font-style:italic; color:#777;">
+  You already know how to find this tuteque.<br><br>
+  Some follow GPS coordinates. Others read the stars. But those who know the rhythm of good code and the scent of great branding... they simply feel when Tuteque is near.<br><br>
+  It’s not just a name. It’s a signal. A resonance that echoes through well-crafted interfaces and Firebase-hosted brilliance. Whether it’s a sleek inventory system or a sarcastic superhero built in HTML, his work speaks — fluently, functionally, and fearlessly.<br><br>
+  There’s no need for a map. Just click, and the legend unfolds.
+</h3>
 
 >[!NOTE]
 >"Your attitude compiles your destiny."<br>– Tuteque-man</p>
