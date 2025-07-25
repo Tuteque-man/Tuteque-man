@@ -103,10 +103,11 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
 <h2>You already know how to find this tuteque.</h2>
-<img src="img/photo3.png" width="100%" alt="tuteque-fans" />
+<a href="https://tuteque-man.github.io/Tuteque-Folio/">
+  <img src="img/photo3.png" width="100%" alt="tuteque-fans" />
+</a>
 <p>
 Looking for a reliable developer for your next project?<br>
-GitHub: <a href="https://tuteque-man.github.io/Tuteque-Folio/">https://github.com/Tuteque-man</a><br>
 Available for freelance work, code reviews, and professional collaborations
 </p>
 
