@@ -34,7 +34,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
   <li>SQL: Data management and protection</li>
 </ul>
 
-<h2>Featured Technologies</h2>
+<h2>Featured Gecko-Technologies</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,nodejs,php,html,css,vue,tailwind,mysql,mongodb,git,github,vscode&perline=17" />
@@ -67,7 +67,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!CAUTION]
 > Overwriting production with untested updates is like swinging through the city without a web — risky and loud when it crashes.
 <br>
-<h1> MORE TUTEQUE FIVERR GIGS! </h1>
+<h1> MORE HOUSEKEEPER FIVERR GIGS! </h1>
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <a href="[https://enlace1.com](https://www.fiverr.com/tutequeman/build-a-modern-and-responsive-website?context_referrer=seller_page&ref_ctx_id=e83048af6f7a4619b4cc7a6544d807c5&pckg_id=1&pos=1&imp_id=9798ecf5-4b1a-4d88-bda4-152e592b1d2f)" target="_blank">
     <img src="img/1.png" width="30%" alt="Image 1" />
@@ -80,7 +80,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   </a>
 </div>
 
-<h2>Featured Projects</h2>
+<h2>Featured Tuteque-Projects</h2>
 
 <ul>
   <li><strong>validador-multiforme:</strong> Adaptable validation framework (in progress)</li>
@@ -91,7 +91,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!WARNING]
 > Don't deploy without validating inputs. Even the most heroic code can fall to silent bugs if left unchecked.
 
-<h2>Upcoming Goals</h2>
+<h2>Upcoming Tuteque-Goals</h2>
 
 <ul>
   <li>Master advanced statistical analysis</li>
@@ -102,11 +102,10 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!IMPORTANT]
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
-<h2>Contact</h2>
-
+<h2>You already know how to find this tuteque.</h2>
 <p>
 Looking for a reliable developer for your next project?<br>
-GitHub: <a href="https://github.com/Tuteque-man">https://github.com/Tuteque-man</a><br>
+GitHub: <a href="https://tuteque-man.github.io/Tuteque-Folio/">https://github.com/Tuteque-man</a><br>
 Available for freelance work, code reviews, and professional collaborations
 </p>
 
