@@ -19,7 +19,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
 > [!TIP]
 > Want freelance clients to trust you faster? Pin a “Tech Herald” profile on your README. Identity builds reliability.
 
-<h2>Core Skills</h2>
+<h2>CORE SKILLS</h2>
 
 <ul>
   <li>Python: Automation, analysis, and elegant development</li>
@@ -32,7 +32,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
   <li>SQL: Data management and protection</li>
 </ul>
 
-<h2 style="text-tranform:uppercase;">Featured Gecko-Technologies</h2>
+<h2>FEATURED GECKO-TECHNOLOGIES</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,nodejs,php,html,css,vue,tailwind,mysql,mongodb,git,github,vscode&perline=17" />
@@ -47,7 +47,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
 <p>AI Tools: ChatGPT, GitHub Copilot, Gemini<br>
 Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 
-<h2 style="text-tranform:uppercase;" >Current Mission</h2>
+<h2>CURRENT MISION</h2>
 
 <ul>
   <li>Improve data validation</li>
@@ -78,7 +78,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   </a>
 </div>
 
-<h2 style="text-tranform:uppercase;">Featured Tuteque-Projects</h2>
+<h2>FEATURED TUTEQUE-PROYECTS</h2>
 
 <ul>
   <li><strong>validador-multiforme:</strong> Adaptable validation framework (in progress)</li>
@@ -89,7 +89,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!WARNING]
 > Don't deploy without validating inputs. Even the most heroic code can fall to silent bugs if left unchecked.
 
-<h2 style="text-tranform:uppercase;">Upcoming Tuteque-Goals</h2>
+<h2>UPCOMING TUTEQUE-GOALS</h2>
 <img src="img/photo2.png" width="100%" alt="aliens" />
 <ul>
   <li>Master advanced statistical analysis</li>
@@ -100,7 +100,7 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!IMPORTANT]
 > Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
-<h2 style="text-tranform:uppercase;">You already know how to find this tuteque.</h2>
+<h2>YOU ALREADY KNOW HOW TO FIND THIS TUTEQUE</h2>
 <a href="https://www.fiverr.com/tutequeman">
   <img src="img/photo3.png" width="100%" alt="tuteque-fans" />
 </a>
