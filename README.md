@@ -66,7 +66,8 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 
 > [!CAUTION]
 > Overwriting production with untested updates is like swinging through the city without a web — risky and loud when it crashes.
-
+<br>
+# MORE TUTEQUE FIVERR GIGS!
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <a href="[https://enlace1.com](https://www.fiverr.com/tutequeman/build-a-modern-and-responsive-website?context_referrer=seller_page&ref_ctx_id=e83048af6f7a4619b4cc7a6544d807c5&pckg_id=1&pos=1&imp_id=9798ecf5-4b1a-4d88-bda4-152e592b1d2f)" target="_blank">
     <img src="img/1.png" width="30%" alt="Image 1" />
