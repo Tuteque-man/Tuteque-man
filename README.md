@@ -77,8 +77,8 @@ GitHub: <a href="https://github.com/Tuteque-man">https://github.com/Tuteque-man<
 Available for freelance work, code reviews, and professional collaborations
 </p>
 
-<h3>[!NOTE]</h3>
-<p>"Your attitude compiles your destiny."<br>– Tuteque-man</p>
+>[!NOTE]
+>"Your attitude compiles your destiny."<br>– Tuteque-man</p>
 
 <p align="center">
   <img src="img/Profile.png" width="100%" />
