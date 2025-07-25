@@ -35,7 +35,7 @@ His mission is clear: build secure, scalable, and well-documented systems, battl
 <h2>Featured Technologies</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,js,nodejs,php,html,css,vue,git,github,vscode,ps,c++&perline=14" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,nodejs,php,ruby,go,html,css,vue,react,nextjs,svelte,astro,tailwind,sql,mysql,postgres,mongodb,docker,git,github,vscode,figma,ps,linux,bash,aws,gcp&perline=13" />
 </p>
 
 <p>AI Tools: ChatGPT, GitHub Copilot, Gemini<br>
