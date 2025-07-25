@@ -16,6 +16,9 @@ In a world where code rules and security is the final frontier, a formidable fig
 His mission is clear: build secure, scalable, and well-documented systems, battling digital chaos line by line.
 </p>
 
+> [!TIP]
+> Want freelance clients to trust you faster? Pin a “Tech Herald” profile on your README. Identity builds reliability.
+
 <h2>Core Skills</h2>
 
 <ul>
@@ -53,6 +56,10 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuteque-man&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+> [!CAUTION]
+> Overwriting production with untested updates is like swinging through the city without a web — risky and loud when it crashes.
+
+
 <h2>Featured Projects</h2>
 
 <ul>
@@ -61,6 +68,9 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   <li><strong>docupoder:</strong> Professional documentation template (in testing)</li>
 </ul>
 
+> [!WARNING]
+> Don't deploy without validating inputs. Even the most heroic code can fall to silent bugs if left unchecked.
+
 <h2>Upcoming Goals</h2>
 
 <ul>
@@ -68,6 +78,9 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
   <li>Build a personal API design framework</li>
   <li>Expand the Tuteque-man brand across the tech multiverse</li>
 </ul>
+
+> [!IMPORTANT]
+> Tuteque-man's core logic is the backbone of backend justice. Never compromise on architecture — it defines destiny.
 
 <h2>Contact</h2>
 
