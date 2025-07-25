@@ -1,6 +1,6 @@
 <img src="img/githubnews.png" alt="GitHub News" style="width:100%;" />
 <!-- GitHub News Style — Tech Herald Special Edition -->
-<h1 style="font-size:100px; color:#ff3366; text-shadow: 3px 3px #222;">WHO IS TUTEQUE-MAN?</h1>
+<h1 style="font-size:100px; color:#ff3366; text-shadow: 3px 3px #222;">WHO IS TUTEQUE-MAN? HERO OR DEVELOPER?</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=csQNux6mBi4" target="_blank">
