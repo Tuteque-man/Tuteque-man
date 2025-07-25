@@ -1,6 +1,6 @@
 <img src="img/githubnews.png" alt="GitHub News" style="width:100%;" />
 
-<h1 style="font-size:40px;">WHO IS TUTEQUE-MAN?</h1>
+<h1 style="font-size:140px;">WHO IS TUTEQUE-MAN?</h1>
 
 <p align="center">
   <img src="cover.png" width="100%" />
