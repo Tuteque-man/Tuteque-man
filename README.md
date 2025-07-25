@@ -3,7 +3,9 @@
 <h1 style="font-size:100px; color:#ff3366; text-shadow: 3px 3px #222;">WHO IS TUTEQUE-MAN?</h1>
 
 <p align="center">
-  <img src="cover.png" width="100%" />
+  <a href="https://www.youtube.com/watch?v=csQNux6mBi4" target="_blank">
+    <img src="img/photo.png" width="100%" alt="incredible" />
+  </a>
 </p>
 
 <h2>Tech Herald – Special Edition</h2>
