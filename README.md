@@ -1,12 +1,10 @@
+<center>
 # WHO IS TUTEQUE-MAN?
+</center>
 
 <p align="center">
   <img src="cover.png" width="100%" />
 </p>
-
----
-
-## TUTEQUE-MAN: The Backend Hero Fighting Digital Chaos
 
 "Tech Herald" – Special Edition
 
