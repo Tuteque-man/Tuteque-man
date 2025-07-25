@@ -1,5 +1,4 @@
 # WHO IS TUTEQUE-MAN?
----
 
 <p align="center">
   <img src="cover.png" width="100%" />
