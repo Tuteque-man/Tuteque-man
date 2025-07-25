@@ -11,7 +11,6 @@ In a world where code rules and security is the final frontier, a formidable fig
 His mission is clear: build secure, scalable, and well-documented systems, battling digital chaos line by line.
 
 ## Core Skills
----
 
 - Python: Automation, analysis, and elegant development  
 - Java: Enterprise-grade robustness  
@@ -74,7 +73,7 @@ GitHub: [https://github.com/Tuteque-man](https://github.com/Tuteque-man)
 Available for freelance work, code reviews, and professional collaborations
 
 ---
-
+> [!NOTE]
 > "Your attitude compiles your destiny."  
 > – Tuteque-man
 
