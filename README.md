@@ -1,4 +1,5 @@
-<img src="img/githubnews.png" width="100%" />
+<img src="img/githubnews.png" alt="GitHub News" style="width:100%;" />
+
 # WHO IS TUTEQUE-MAN?
 
 <p align="center">
