@@ -67,6 +67,17 @@ Code Editors: VSCode, Cursor, JetBrains IDEs</p>
 > [!CAUTION]
 > Overwriting production with untested updates is like swinging through the city without a web — risky and loud when it crashes.
 
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <a href="[https://enlace1.com](https://www.fiverr.com/tutequeman/build-a-modern-and-responsive-website?context_referrer=seller_page&ref_ctx_id=e83048af6f7a4619b4cc7a6544d807c5&pckg_id=1&pos=1&imp_id=9798ecf5-4b1a-4d88-bda4-152e592b1d2f)" target="_blank">
+    <img src="img/1.png" width="30%" alt="Image 1" />
+  </a>
+  <a href="https://www.fiverr.com/tutequeman/build-custom-python-scripts-or-minigames-using-pygame?context_referrer=seller_page&ref_ctx_id=e83048af6f7a4619b4cc7a6544d807c5&pckg_id=1&pos=2&imp_id=5989aafe-76b3-406a-9f37-94c9ce65a29f" target="_blank">
+    <img src="img/2.png" width="30%" alt="Image 2" />
+  </a>
+  <a href="https://www.fiverr.com/tutequeman/build-a-modern-and-fast-website-using-vuejs?context_referrer=seller_page&ref_ctx_id=e83048af6f7a4619b4cc7a6544d807c5&pckg_id=1&pos=3&imp_id=edf7bf13-63a0-432f-a6bc-eaafb3f5078d" target="_blank">
+    <img src="img/3.png" width="30%" alt="Image 3" />
+  </a>
+</div>
 
 <h2>Featured Projects</h2>
 
